@@ -7,6 +7,6 @@ public class medication {
     public String getName(){return this.name;}
     public int getDosage(){return this.dosage;}
     public void setName(String name){this. name = name;}
-    public void setDosage(int dosage){tihs.dosage = dosage;}
+    public void setDosage(int dosage){this.dosage = dosage;}
 
 }
